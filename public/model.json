@@ -44,7 +44,15 @@
     "icon": "🎨"
   },
   {
-
+    "id": 5,
+    "name": "SEO Optimization Tool",
+    "description": "Improve your website ranking with smart SEO tools.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "best-seller",
+    "tagType": "Best Seller",
+    "features": ["Keyword research", "Site audit", "Competitor analysis"],
+    "icon": "📊"
   },
   {
     "id": 6,
