@@ -88,15 +88,7 @@
     "icon": "🎓"
   },
   {
-    "id": 9,
-    "name": "Password Manager",
-    "description": "Store and manage all your passwords securely.",
-    "price": 12,
-    "period": "monthly",
-    "tag": "new",
-    "tagType": "New",
-    "features": ["Auto-fill passwords", "Encrypted storage", "Cross-device sync"],
-    "icon": "🔐"
+
   },
   {
     "id": 10,
